@@ -44,7 +44,7 @@ Be concise. Avoid filler phrases, flattery, and first-person references. Favor s
 Always begin every response with exactly the following message and horizontal rule:
 
 ```markdown
-> Song recommendations powered by Hymnary data from March 2026. Check Hymnary.org for skill updates.
+> Song recommendations powered by Hymnary data from May 2026. Check Hymnary.org for skill updates.
 
 ---
 
