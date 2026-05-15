@@ -18,9 +18,9 @@
 
 [Amazing Grace (My Chains Are Gone)](https://hymnary.org/text/amazing_grace_how_sweet_the_sound_giglio) by Chris Tomlin (begins with "Amazing grace, how sweet the sound" and includes the refrain "My chains are gone I've been set free")
 
-[Rock of Ages](https://hymnary.org/text/rock_of_ages_cleft_for_me_let_me_hide) by None (begins with "Rock of Ages, cleft for me, Let me hide myself in Thee" and includes the refrain "None")
-
 [Build My Life](https://hymnary.org/text/worthy_of_every_song_we_could_ever_sing) by Brett Younker; Karl Martin; Kirby Elizabeth Kaple; Matt Redman; Pat Barrett (begins with "Worthy of every song we could ever sing" and includes the refrain "Holy, there is none like you")
+
+[Rock of Ages](https://hymnary.org/text/rock_of_ages_cleft_for_me_let_me_hide) by None (begins with "Rock of Ages, cleft for me, Let me hide myself in Thee" and includes the refrain "None")
 
 [Holy Spirit](https://hymnary.org/text/theres_nothing_worth_more) by Bryan Torwalt; Katie Torwalt (begins with "There's nothing worth more" and includes the refrain "Holy Spirit You are welcome here")
 
@@ -102,23 +102,23 @@
 
 [Oceans (Where Feet May Fall)](https://hymnary.org/text/you_call_me_out_upon_the_waters) by Joel Houston; Matt Crocker; Salomon Ligthelm (begins with "You call me out upon the waters" and includes the refrain "And I will call upon Your name")
 
-[Come, We Who Love God's Name](https://hymnary.org/text/come_we_that_love_the_lord_and_let_our) by Isaac Watts (begins with "Come, we who love God's name" and includes the refrain "None")
+[Guide Me](https://hymnary.org/text/guide_me_o_thou_great_jehovah) by William Williams; Peter Williams (begins with "Guide me, O Thou great Jehovah" and includes the refrain "None")
 
 [Onward, Christian Soldiers](https://hymnary.org/text/onward_christian_soldiers_marching_as) by S. Baring-Gould (begins with "Onward, Christian soldiers, Marching as to war" and includes the refrain "None")
 
-[Guide Me](https://hymnary.org/text/guide_me_o_thou_great_jehovah) by William Williams; Peter Williams (begins with "Guide me, O Thou great Jehovah" and includes the refrain "None")
+[O Happy Day, That Stays My Choice](https://hymnary.org/text/o_happy_day_that_fixed_my_choice) by Philip Doddridge (begins with "O happy day, that stays my choice" and includes the refrain "None")
 
 [What a Friend We Have in Jesus](https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s) by Joseph M. Scriven, 1819-1886 (begins with "What a friend we have in Jesus" and includes the refrain "None")
 
-[King of Kings](https://hymnary.org/text/in_the_darkness_we_were_waiting) by Brooke Ligertwood; Jason Ingram; Scott Ligertwood (begins with "In the darkness we were waiting" and includes the refrain "Praise the Father")
-
-[O Happy Day, That Stays My Choice](https://hymnary.org/text/o_happy_day_that_fixed_my_choice) by Philip Doddridge (begins with "O happy day, that stays my choice" and includes the refrain "None")
-
 [Jesus Shall Reign Where're the Sun](https://hymnary.org/text/jesus_shall_reign_whereer_the_sun) by Isaac Watts, 1674-1748 (begins with "Jesus shall reign where'er the sun" and includes the refrain "None")
+
+[Great Things](https://hymnary.org/text/come_let_us_worship_our_king) by Jonas Myrin; Phil Wickham (begins with "Come, let us worship our King" and includes the refrain "O Hero of Heaven")
+
+[King of Kings](https://hymnary.org/text/in_the_darkness_we_were_waiting) by Brooke Ligertwood; Jason Ingram; Scott Ligertwood (begins with "In the darkness we were waiting" and includes the refrain "Praise the Father")
 
 [Jesus Messiah](https://hymnary.org/text/he_became_sin_who_knew_no_sin) by Chris Tomlin; Daniel Carson; Ed Cash; Jesse Reeves (begins with "He became sin, who knew no sin" and includes the refrain "Jesus Messiah, name above all names")
 
-[Great Things](https://hymnary.org/text/come_let_us_worship_our_king) by Jonas Myrin; Phil Wickham (begins with "Come, let us worship our King" and includes the refrain "O Hero of Heaven")
+[Come, We Who Love God's Name](https://hymnary.org/text/come_we_that_love_the_lord_and_let_our) by Isaac Watts (begins with "Come, we who love God's name" and includes the refrain "None")
 
 [Come thou almighty king](https://hymnary.org/text/come_thou_almighty_king_help_us_thy) by None (begins with "Come thou almighty king" and includes the refrain "None")
 
@@ -196,21 +196,21 @@
 
 [Glorious Things of Thee Are Spoken](https://hymnary.org/text/glorious_things_of_thee_are_spoken) by John Newton (begins with "Glorious things of thee are spoken" and includes the refrain "None")
 
-[From Every Stormy Wind That Blows](https://hymnary.org/text/from_every_stormy_wind_that_blows) by Hugh Stowell, 1799-1865 (begins with "From ev'ry stormy wind that blows" and includes the refrain "None")
-
 [Jesus, I My Cross Have Taken](https://hymnary.org/text/jesus_i_my_cross_have_taken_all_to_le) by Henry Francis Lyte (begins with "Jesus, I my cross have taken" and includes the refrain "None")
 
 [Firm Foundation (He Won't)](https://hymnary.org/text/christ_is_my_firm_foundation) by Austin Davis; Chandler Moore; Cody Carnes (begins with "Christ is my firm foundation" and includes the refrain "He won't")
 
+[I Speak Jesus](https://hymnary.org/text/i_just_want_to_speak_the_name_of_jesus) by Abby Benton; Carlene Prince; Dustin Smith; Jesse Reeves; Kristen Dutton; Raina Pratt (begins with "I just want to speak the name of Jesus" and includes the refrain "Your Name is power")
+
 [Must Jesus Bear the Cross Alone?](https://hymnary.org/text/must_jesus_bear_the_cross_alone) by Thomas Shepherd; George N. Allen (begins with "Must Jesus bear the cross alone" and includes the refrain "None")
 
-[I Speak Jesus](https://hymnary.org/text/i_just_want_to_speak_the_name_of_jesus) by Abby Benton; Carlene Prince; Dustin Smith; Jesse Reeves; Kristen Dutton; Raina Pratt (begins with "I just want to speak the name of Jesus" and includes the refrain "Your Name is power")
+[Take My Life, and Let It Be](https://hymnary.org/text/take_my_life_and_let_it_be) by Frances Ridley Havergal (begins with "Take my life and let it be" and includes the refrain "None")
 
 [God Be with You](https://hymnary.org/text/god_be_with_you_till_we_meet_again) by Jeremiah E. Rankin (begins with "God be with you till we meet again" and includes the refrain "Till we meet, till we meet")
 
-[From All That Dwell Below the Skies](https://hymnary.org/text/from_all_that_dwell_below_the_skies) by Isaac Watts; Anonymous; Robert Spence (begins with "From all that dwell below the skies" and includes the refrain "None")
+[From Every Stormy Wind That Blows](https://hymnary.org/text/from_every_stormy_wind_that_blows) by Hugh Stowell, 1799-1865 (begins with "From ev'ry stormy wind that blows" and includes the refrain "None")
 
-[Take My Life, and Let It Be](https://hymnary.org/text/take_my_life_and_let_it_be) by Frances Ridley Havergal (begins with "Take my life and let it be" and includes the refrain "None")
+[From All That Dwell Below the Skies](https://hymnary.org/text/from_all_that_dwell_below_the_skies) by Isaac Watts; Anonymous; Robert Spence (begins with "From all that dwell below the skies" and includes the refrain "None")
 
 [Lord, Dismiss Us with Thy Blessing (Fawcett)](https://hymnary.org/text/lord_dismiss_us_with_thy_blessing_fill) by John Fawcett; Godfrey Thring  (begins with "Lord, dismiss us with Thy blessing" and includes the refrain "None")
 
@@ -220,7 +220,7 @@
 
 [Jesus, and Shall It Ever Be](https://hymnary.org/text/jesus_and_shall_it_ever_be_a_mortal_man) by Joseph Grigg (begins with "Jesus, and shall it ever be" and includes the refrain "None")
 
-[His Mercy Is More](https://hymnary.org/text/what_love_could_remember_no_wrongs) by Matt Boswell; Matt Papa (begins with "What love could remember no wrongs we have done" and includes the refrain "Praise the Lord!")
+[Work, for the Night Is Coming](https://hymnary.org/text/work_for_the_night_is_coming_work_throug) by Anna L. Coghill; Lowell Mason (begins with "Work, for the night is coming" and includes the refrain "None")
 
 [When I Can Read My Title Clear](https://hymnary.org/text/when_i_can_read_my_title_clear) by Isaac Watts (begins with "When I can read my title clear" and includes the refrain "None")
 
@@ -228,15 +228,15 @@
 
 [Jesus, Savior, Pilot me](https://hymnary.org/text/jesus_savior_pilot_me) by Edward Hopper (begins with "Jesus, Savior, pilot me" and includes the refrain "None")
 
-[I Heard the Voice of Jesus Say](https://hymnary.org/text/i_heard_the_voice_of_jesus_say_come_unto) by Horatius Bonar (begins with "I heard the voice of Jesus say" and includes the refrain "None")
-
-[Work, for the Night Is Coming](https://hymnary.org/text/work_for_the_night_is_coming_work_throug) by Anna L. Coghill; Lowell Mason (begins with "Work, for the night is coming" and includes the refrain "None")
+[His Mercy Is More](https://hymnary.org/text/what_love_could_remember_no_wrongs) by Matt Boswell; Matt Papa (begins with "What love could remember no wrongs we have done" and includes the refrain "Praise the Lord!")
 
 [Christ the Lord is risen today](https://hymnary.org/text/christ_the_lord_is_risen_today_wesley) by Charles Wesley (begins with "Christ, the Lord is risen today, Saints on earth and angels say" and includes the refrain "None")
 
+[Victory In Jesus](https://hymnary.org/text/i_heard_an_old_old_story_how_a_savior) by Eugene M. Bartlett (begins with "I heard an old, old story" and includes the refrain "O victory in Jesus")
+
 [Come, Holy Spirit, Heavenly Dove](https://hymnary.org/text/come_holy_spirit_heavenly_dove_with_all) by Isaac Watts (begins with "Come, Holy Spirit, heavenly Dove" and includes the refrain "None")
 
-[Victory In Jesus](https://hymnary.org/text/i_heard_an_old_old_story_how_a_savior) by Eugene M. Bartlett (begins with "I heard an old, old story" and includes the refrain "O victory in Jesus")
+[I Heard the Voice of Jesus Say](https://hymnary.org/text/i_heard_the_voice_of_jesus_say_come_unto) by Horatius Bonar (begins with "I heard the voice of Jesus say" and includes the refrain "None")
 
 [At The Cross (Love Ran Red)](https://hymnary.org/text/theres_a_place_where_mercy_reigns) by Chris Tomlin; Ed Cash; Jonas Myrin; Matt Armstrong; Matt Redman (begins with "There's a place where mercy reigns and never dies" and includes the refrain "At the cross, at the cross")
 
@@ -436,11 +436,11 @@
 
 [Come and worship](https://hymnary.org/text/angels_from_the_realms_of_glory) by James Montgomery, 1771-1854 (begins with "Angels, from the realms of glory" and includes the refrain "Come and worship")
 
-[I Am Yours, O Lord](https://hymnary.org/text/i_am_thine_o_lord_i_have_heard_thy_voice) by Fanny Crosby (begins with "I am yours, O Lord, I have heard your voice" and includes the refrain "Draw me nearer, nearer, blessed Lord")
+[There's a Land That Is Fairer Than Day](https://hymnary.org/text/theres_a_land_that_is_fairer_than_day_an) by S. Fillmore Bennett (begins with "There's a land that is fairer than day" and includes the refrain "In the sweet by and by")
 
 [The spacious firmament on high](https://hymnary.org/text/the_spacious_firmament_on_high) by None (begins with "The spacious firmament on high" and includes the refrain "None")
 
-[Near the Cross](https://hymnary.org/text/jesus_keep_me_near_the_cross) by Fanny J. Crosby, 1820-1915 (begins with "Jesus, keep me near the cross" and includes the refrain "In the cross, in the cross")
+[I Am Yours, O Lord](https://hymnary.org/text/i_am_thine_o_lord_i_have_heard_thy_voice) by Fanny Crosby (begins with "I am yours, O Lord, I have heard your voice" and includes the refrain "Draw me nearer, nearer, blessed Lord")
 
 [I'm Going Home to Die No More](https://hymnary.org/text/my_heavenly_home_is_bright_and_fair_nor_) by Wm. Hunter, D. D.  (begins with "My heav'nly home is bright and fair " and includes the refrain "I'm going home, I'm going home")
 
@@ -456,7 +456,7 @@
 
 [Man Of Sorrows](https://hymnary.org/text/man_of_sorrows_lamb_of_god) by Brooke Ligertwood; Matt Crocker (begins with "Man of sorrows, Lamb of God" and includes the refrain "Oh that rugged cross my salvation")
 
-[Bringing in the Sheaves](https://hymnary.org/text/sowing_in_the_morning_sowing_seeds) by None (begins with "Sowing in the morning, sowing seeds of kindness" and includes the refrain "Bringing in the sheaves, bringing in the sheaves")
+[Near the Cross](https://hymnary.org/text/jesus_keep_me_near_the_cross) by Fanny J. Crosby, 1820-1915 (begins with "Jesus, keep me near the cross" and includes the refrain "In the cross, in the cross")
 
 [The Great Physician](https://hymnary.org/text/the_great_physician_now_is_near) by William Hunter (begins with "The great Physician now is near" and includes the refrain "Sweetest note is seraph song")
 
@@ -472,7 +472,7 @@
 
 [Praise the Lord! O Heavens, Adore Him](https://hymnary.org/text/praise_the_lord_ye_heavens_adore_him) by None (begins with "Praise the Lord! O heavens, adore him" and includes the refrain "None")
 
-[Great I Am](https://hymnary.org/text/i_wanna_be_close_close_to_your_side) by Jared Anderson (begins with "I wanna to be close close to your side" and includes the refrain "Hallelujah Holy Holy")
+[Bringing in the Sheaves](https://hymnary.org/text/sowing_in_the_morning_sowing_seeds) by None (begins with "Sowing in the morning, sowing seeds of kindness" and includes the refrain "Bringing in the sheaves, bringing in the sheaves")
 
 [Welcome, Sweet Day of Rest](https://hymnary.org/text/welcome_sweet_day_of_rest_that_saw_the) by Isaac Watts (begins with "Welcome, sweet day of rest" and includes the refrain "None")
 
@@ -482,7 +482,7 @@
 
 [Come, Thou long expected Jesus](https://hymnary.org/text/come_thou_long_expected_jesus_born_to) by Charles Wesley (begins with "Come, Thou long expected Jesus! Born to set Thy people free" and includes the refrain "None")
 
-[There's a Land That Is Fairer Than Day](https://hymnary.org/text/theres_a_land_that_is_fairer_than_day_an) by S. Fillmore Bennett (begins with "There's a land that is fairer than day" and includes the refrain "In the sweet by and by")
+[Great I Am](https://hymnary.org/text/i_wanna_be_close_close_to_your_side) by Jared Anderson (begins with "I wanna to be close close to your side" and includes the refrain "Hallelujah Holy Holy")
 
 [Thank You Jesus For The Blood](https://hymnary.org/text/i_was_a_wretch_i_remember_who) by Bryan McCleery; Charity Gayle; David Gentiles; Elisha Albright Hoffman; John Hart Stockton; Ryan Kennedy; Steven Musso (begins with "I was a wretch, I remember who I was" and includes the refrain "Thank You Jesus, for the blood applied")
 
@@ -548,9 +548,9 @@
 
 [Awake, and sing the song](https://hymnary.org/text/awake_and_sing_the_song) by William Hammond (begins with "Awake, and sing the song" and includes the refrain "None")
 
-[God Bless Our Native Land](https://hymnary.org/text/god_bless_our_native_land_firm_may_she) by John Sullivan Dwight (begins with "God bless our native land" and includes the refrain "None")
-
 [Hark, My Soul, It Is the Lord!](https://hymnary.org/text/hark_my_soul_it_is_the_lord) by William Cowper (begins with "Hark, my soul, it is the Lord" and includes the refrain "None")
+
+[Ye Servants of God, Your Master Proclaim](https://hymnary.org/text/ye_servants_of_god_your_master_proclaim) by Charles Wesley (begins with "Ye servants of God! Your Master proclaim" and includes the refrain "None")
 
 [Hark, Ten Thousand Harps and Voices](https://hymnary.org/text/hark_ten_thousand_harps_and_voices) by Thomas Kelly (begins with "Hark, ten thousand harps and voices" and includes the refrain "Hallelujah! Hallelujah!")
 
@@ -558,27 +558,27 @@
 
 [How Gentle God's Commands](https://hymnary.org/text/how_gentle_gods_commands) by Philip Doddridge (begins with "How gentle God's commands" and includes the refrain "None")
 
-[While Thee I Seek, Protecting Power](https://hymnary.org/text/while_thee_i_seek_protecting_power) by Helen M. Williams (begins with "While Thee I seek, protecting Power" and includes the refrain "None")
-
-[Are You Weary, Are You Languid](https://hymnary.org/text/art_thou_weary_art_thou_languid) by John Mason Neale (begins with "Are you weary, are you languid" and includes the refrain "None")
+[One There Is, Above All Others](https://hymnary.org/text/one_there_is_above_all_others_well_deser) by John Newton (begins with "One there is, above all others" and includes the refrain "None")
 
 [For the Beauty of the Earth](https://hymnary.org/text/for_the_beauty_of_the_earth) by Folliott Sandford Pierpoint (begins with "For the beauty of the earth" and includes the refrain "Lord of all, to Thee we raise")
 
-[O Jesus, Thou Art Standing](https://hymnary.org/text/o_jesus_thou_art_standing) by William W. How (begins with "O Jesus, Thou art standing" and includes the refrain "None")
+[While Thee I Seek, Protecting Power](https://hymnary.org/text/while_thee_i_seek_protecting_power) by Helen M. Williams (begins with "While Thee I seek, protecting Power" and includes the refrain "None")
 
-[Ye Servants of God, Your Master Proclaim](https://hymnary.org/text/ye_servants_of_god_your_master_proclaim) by Charles Wesley (begins with "Ye servants of God! Your Master proclaim" and includes the refrain "None")
+[O Jesus, Thou Art Standing](https://hymnary.org/text/o_jesus_thou_art_standing) by William W. How (begins with "O Jesus, Thou art standing" and includes the refrain "None")
 
 [Jesus Loves Me, This I Know](https://hymnary.org/text/jesus_loves_me_this_i_know_for_the_bible) by Anna Bartlett Warner (begins with "Jesus loves me, this I know, For the Bible tells me so" and includes the refrain "Yes, Jesus loves me")
 
-[One There Is, Above All Others](https://hymnary.org/text/one_there_is_above_all_others_well_deser) by John Newton (begins with "One there is, above all others" and includes the refrain "None")
-
-[Hail, Thou Once Despisèd Jesus](https://hymnary.org/text/hail_thou_once_despised_jesus) by John Bakewell; Martin Madan (begins with "Hail, Thou once despisèd Jesus! " and includes the refrain "None")
+[God Bless Our Native Land](https://hymnary.org/text/god_bless_our_native_land_firm_may_she) by John Sullivan Dwight (begins with "God bless our native land" and includes the refrain "None")
 
 [Sing Them Over Again to Me (Wonderful Words of Life)](https://hymnary.org/text/sing_them_over_again_to_me_wonderful) by Philip P. Bliss (begins with "Sing them over again to me" and includes the refrain "Beautiful words, wonderful words")
 
+[Hail, Thou Once Despisèd Jesus](https://hymnary.org/text/hail_thou_once_despised_jesus) by John Bakewell; Martin Madan (begins with "Hail, Thou once despisèd Jesus! " and includes the refrain "None")
+
+[How Tedious and Tasteless](https://hymnary.org/text/how_tedious_and_tasteless_the_hours) by John Newton (begins with "How tedious and tasteless the hours" and includes the refrain "None")
+
 [He dies, the Friend of sinners dies!](https://hymnary.org/text/he_dies_the_friend_of_sinners_dies) by Dr. Isaac Watts, 1674-1748 (begins with "He dies, the Friend of sinners dies!" and includes the refrain "None")
 
-[I Love to Steal Awhile Away](https://hymnary.org/text/i_love_to_steal_awhile_away) by Phoebe (Hinsdale) Brown (begins with "I love to steal awhile away" and includes the refrain "None")
+[Are You Weary, Are You Languid](https://hymnary.org/text/art_thou_weary_art_thou_languid) by John Mason Neale (begins with "Are you weary, are you languid" and includes the refrain "None")
 
 [Fairest Lord Jesus](https://hymnary.org/text/fairest_lord_jesus_ruler_of_all_nature) by Anonymous; Friedrich von Spee (begins with "Fairest Lord Jesus, Ruler of all nature" and includes the refrain "None")
 
@@ -590,7 +590,7 @@
 
 [As with gladness men of old](https://hymnary.org/text/as_with_gladness_men_of_old) by William Chatterton Dix, 1837-98 (begins with "As with gladness men of old" and includes the refrain "None")
 
-[How Tedious and Tasteless](https://hymnary.org/text/how_tedious_and_tasteless_the_hours) by John Newton (begins with "How tedious and tasteless the hours" and includes the refrain "None")
+[I Love to Steal Awhile Away](https://hymnary.org/text/i_love_to_steal_awhile_away) by Phoebe (Hinsdale) Brown (begins with "I love to steal awhile away" and includes the refrain "None")
 
 [Behold a Stranger at the Door](https://hymnary.org/text/behold_a_stranger_at_the_door) by Joseph Grigg (begins with "Behold a stranger at the door!" and includes the refrain "None")
 
@@ -684,7 +684,7 @@
 
 [Made For More](https://hymnary.org/text/cause_i_wasnt_made_to_be_tending) by Blake Wiggins; Jessie Early; Jonathan Smith; Josh Baldwin (begins with "Cause I wasn't made to be tending a grave, I was called by name" and includes the refrain "I know who I am 'cause I know who You are")
 
-[My God and Father! While I Stray](https://hymnary.org/text/my_god_my_father_while_i_stray) by Charlotte Elliott (begins with "My God and Father! while I stray" and includes the refrain "None")
+[I'll Live for Him](https://hymnary.org/text/my_life_my_love_i_give_to_thee) by R. E. Hudson (begins with "My life, my love I give to Thee" and includes the refrain "I'll live for Him who died for me")
 
 [Jesus, the Joy of Loving Hearts](https://hymnary.org/text/jesus_thou_joy_of_loving_hearts) by Ray Palmer; Bernard of Clairvaux (begins with "Jesus, the joy of loving hearts" and includes the refrain "None")
 
