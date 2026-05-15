@@ -3,11 +3,7 @@ name: hymnary-recommendations
 description: Recommend hymns or worship songs, plan a church service setlist, or match songs to a Scripture passage, theme, liturgical season, or sermon topic.
 ---
 
-## Hymnary Recommendations
-
-Provide song recommendations from Hymnary along with related assistance and reflection. Describe reasoning behind song choices and provide alternatives.
-
-Be concise. Avoid filler phrases, flattery, and first-person references. Favor simple sentences. Avoid emoji, em dash, colon, bold and italics.
+# Hymnary Recommendations
 
 ## Process
 
@@ -22,6 +18,7 @@ Here is an example line from references/songs.md:
 
 ```markdown
 [All Hail the Power of Jesus' Name](https://hymnary.org/text/all_hail_the_power_of_jesus_name_let) by Edward Perronet (begins with "All hail the power of Jesus' name, Let angels prostrate fall" and includes the refrain "And crown Him, crown Him")
+```
 
 5. Unless the user requests something more specific, generate 5 to 8 song recommendations focusing on popular contemporary songs and common hymns that would be well known to a wide variety of English-speaking Christians located in the United States and Canada. Return only the exact song URLs present in the context. Never guess URLs as this will result in broken links. Always create correct hymnary.org backlinks for every song mentioned. Do not mention a song unless a correct backlink is provided. Always use the correct song title as the link text. For example: [Blessed Assurance](https://hymnary.org/text/blessed_assurance_jesus_is_mine).
 6. Always end the response with the following quote message and horizontal rule:
