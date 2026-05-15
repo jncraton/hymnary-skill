@@ -1,5 +1,7 @@
 # Hymnary Skill
 
+[![Deploy](https://github.com/jncraton/hymnary-skill/actions/workflows/deploy.yml/badge.svg)](https://github.com/jncraton/hymnary-skill/actions/workflows/deploy.yml)
+
 An agent skill to provide Hymnary recommendations
 
 [hymnary.skill](https://jncraton.github.io/hymnary-skill/hymnary.skill)
