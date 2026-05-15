@@ -2,7 +2,7 @@ all: hymnary.skill
 
 .PHONY: readme.md
 
-%.skill:
+hymnary.skill: hymnary-recommendations/SKILL.md
 	cd hymnary-recommendations && zip -9 -r ../$@ *
 
 format:
