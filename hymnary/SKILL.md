@@ -1,9 +1,9 @@
 ---
-name: hymnary-recommendations
+name: hymnary
 description: Recommend hymns or worship songs, plan a church service setlist, or match songs to a Scripture passage, theme, liturgical season, or sermon topic.
 ---
 
-# Hymnary Recommendations
+# Hymnary
 
 ## Process
 
